@@ -21,5 +21,5 @@ Welcome to the Power Pack Defect Monitoring System! This is a web-based applicat
 - **PHP**: Handles server-side logic, form submissions, and database interactions.
 - **MySQL / SQL**: Stores defect records in a structured relational database.
 
-## Folder Structure (Example)
+
 
